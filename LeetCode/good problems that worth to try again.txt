@@ -1,0 +1,30 @@
+No.                       			  				Difficulty     approve        oppose     
+1. Two Sum                			  				 Easy          10209            332
+2. Add Two Numbers									Medium 			4907		   1250
+3. Longest Substring Without Repeating Characters	Medium 			5258 			276
+20. Valid Parentheses     			  				 Easy           2682            136
+35. Search Insert Position			  				 Easy           1190            165
+53. Maximum Subarray      			  				 Easy           3861            133
+67. Add Binary            			  				 Easy            866            174
+70. Climbing Stairs       			  				 Easy           1948             73
+83. Remove Duplicates from Sorted List				 Easy            698             75
+88. Merge Sorted Array                  			 Easy           1000           2596 
+118. Pascal's Triangle                  			 Easy            642             72
+119. Pascal's Triangle II               			 Easy 		     434	        156
+121. Best Time to Buy and Sell Stock    			 Easy		    2358	        114
+122. Best Time to Buy and Sell Stock II 			 Easy   	     894           1233 
+125. Valid Palindrome								 Easy		     544	       1558 
+136. Single Number									 Easy 		    2232 	         85
+141. Linked List Cycle 								 Easy 		    1428	        140
+167. Two Sum II - Input array is sorted 			 Easy 		     832 	        353
+168. Excel Sheet Column Title 						 Easy 		     664 		    131
+169. Majority Element 								 Easy 		    1501	        135
+171. Excel Sheet Column Number 						 Easy 		     492 		     89
+172. Factorial Trailing Zeroes(个人认为ok) 	         Easy 		     439 		    634 
+189. Rotate Array									 Easy		    1195			583
+198. House Robber									 Easy 			2462 		     74
+202. Happy Number    								 Easy			 806 			198
+203. Remove Linked List Elements					 Easy			 769 			 44
+204. Count Primes 									 Easy 			 977			381
+205. Isomorphic String								 Easy 			 739 		    210
+300. 最长上升子序列                                 Medium
